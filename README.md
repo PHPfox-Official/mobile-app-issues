@@ -1,4 +1,4 @@
-# phpFox Issue Tracker
+# phpFox Mobile App Issue Tracker
 
 Use this [issue tracker](https://github.com/PHPfox-Official/mobile-app-issues) to report any problems you encounter with phpFox Mobile App.
 
